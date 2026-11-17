@@ -23,6 +23,7 @@ Una puerta de entrada común al ecosistema EWAO. El home pregunta "¿Cómo quier
 | `docs/Documento_Respaldo_Grupo_3_-_Rojas_Sepulveda_Molina_Iglesias.pdf` | Documento marco de respaldo, con anexo de evidencia. |
 | `docs/Documento_Respaldo_Grupo_3_-_Rojas_Sepulveda_Molina_Iglesias.docx` | El mismo documento en Word. |
 | `docs/Presentacion_Grupo3.pdf` | Presentación del pitch final. |
+| `docs/evidencia_evento_clave.pdf` | Captura de Google Analytics con form_submit marcado como evento clave. |
 
 ## Cómo usarlo
 
