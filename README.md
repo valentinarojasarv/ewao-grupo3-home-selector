@@ -22,7 +22,6 @@ Una puerta de entrada común al ecosistema EWAO. El home pregunta "¿Cómo quier
 | `index.html` | El prototipo completo en un solo archivo (HTML, CSS y JavaScript). |
 | `docs/Documento_Respaldo_Grupo_3_-_Rojas_Sepulveda_Molina_Iglesias.pdf` | Documento marco de respaldo, con anexo de evidencia. |
 | `docs/Documento_Respaldo_Grupo_3_-_Rojas_Sepulveda_Molina_Iglesias.docx` | El mismo documento en Word. |
-| `evidencia/` | Capturas de Tag Manager publicado y de los eventos en Google Analytics. |
 
 ## Cómo usarlo
 
